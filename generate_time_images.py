@@ -1,4 +1,3 @@
-import time
 from PIL import ImageDraw, Image, ImageFont
 from datetime import datetime, timedelta
 
